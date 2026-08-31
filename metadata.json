@@ -1,0 +1,8 @@
+{
+  "name": "Swastik AI Labs",
+  "description": "Swastik AI Labs: Architecting the Future with AI. Developing intelligent, scalable digital solutions that empower businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
